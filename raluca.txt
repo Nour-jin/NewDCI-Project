@@ -1,17 +1,15 @@
 Hello world! This is Raluca :)
-I am 32 years old
-I come from Romania
-I have studied Literature and Sociology
-I worked as a Management Assistant and a Traffic Manager in Online Marketing
-I chose now to set a new different path for my career
-Projects I would like to work:
-1. my own website that has a blog page and a shop for my handmade things
-2. create an app for learning German
 
-<html>
-<body>
-<h1>That's all falks </h1>
-<h2>Hello Raluca nice Project togather<h2>
-</body>
-</html>
+I come from Romania and I am born on 29th October 1987. 
+I lived for 10 years in Bucharest where I also studied Sociology and Literature.
+I worked in different companies, my last two jobs being Management Assistant and Traffic Manager.
+I liked working in Online Marketing, but it was a bit too stressful and got to have no time outside my job.
+In 2015 I moved to Germany and one year later got married.
+I like to live in Germany and right now I am setting a new path to my career.
+Working as a Web Developer has never been an option for me, but it seems I got the chance now.
+Projects I would like to work on:
+- my own website with a blog page and a shop for my handmade stuff
+- a website for me as a web developer
+- an app for learning a foreign language 
+
 
