@@ -35,13 +35,19 @@ Html  Html 5
 4. that's it 
 
 
-* iteam 1
-* iteam 2
-* iteam 3
-* iteam 4
+* python
+* java
+* java script
+* Ruby
+* Html
+* css
+* swift
+* C++
+* Object C
+
 
 
 First iteam  | Second Iteam
 ------------ | -------------
-NewMaterial  | that'sthe first project
+NewMaterial  | my first project
 Desktop      | my secound project
