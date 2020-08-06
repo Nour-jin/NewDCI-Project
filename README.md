@@ -2,7 +2,7 @@
 New Material Design
 ## Thats My First Project
 I'm Nour Eddin
-My Team Mate Raluca
+My Team Mate Raluca and Samira
 ```
 we work togather for a new project
 ````
