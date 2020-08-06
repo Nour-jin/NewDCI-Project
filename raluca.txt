@@ -1,0 +1,17 @@
+Hello world! This is Raluca :)
+I am 32 years old
+I come from Romania
+I have studied Literature and Sociology
+I worked as a Management Assistant and a Traffic Manager in Online Marketing
+I chose now to set a new different path for my career
+Projects I would like to work:
+1. my own website that has a blog page and a shop for my handmade things
+2. create an app for learning German
+
+<html>
+<body>
+<h1>That's all falks </h1>
+<h2>Hello Raluca nice Project togather<h2>
+</body>
+</html>
+
