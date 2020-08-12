@@ -6,7 +6,7 @@ My Team Mate Raluca and Samira
 ```
 we work togather for a new project
 ````
-
+Raluca doesn't know much, but she is willing to learn :)
 
 ```
 js nodejs..
